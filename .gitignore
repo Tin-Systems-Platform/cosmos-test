@@ -1,0 +1,7 @@
+output-x64/
+output-arm64/
+bin/
+build/
+obj/
+
+*.img
